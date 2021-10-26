@@ -9,7 +9,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Estrutura de pastas SCSS
 - [ ] Construção layout HTML, mobile first
 - [ ] Adequação layout HTML, desktop
-- [ ] Implementação javascript modular
+- [x] Implementação javascript modular
 - [ ] Estrutura base de dados Json
 - [ ] Persistência de dados via SessionStorage
 - [ ] Regra de negócio { Carrinho de compras }
