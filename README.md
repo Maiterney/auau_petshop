@@ -23,7 +23,7 @@ npm run build
 ```
 
 ### Estrutura de pastas
-
+```
 .
 ├── index.html
 ├── README.md
@@ -31,17 +31,18 @@ npm run build
 ├── package.json
 ├── .gitignore
 ├── scss
-    ├── main.module.scss
-    └── components
-        ├── reset.module.scss
-        ├── variables.module.scss
-        └── sections
-            └── sections.module.scss
+│   ├── main.module.scss
+│   └── components
+│       ├── reset.module.scss
+│       ├── variables.module.scss
+│       └── sections
+│           └── sections.module.scss
 ├── assets
-    ├── css[build]
-    └── imgs
+│   ├── css[build]
+│   └── imgs
 └── modules
     ├── main.js
     ├── cart.js
     ├── petshopdata.js
     └── newslatter.js
+```
