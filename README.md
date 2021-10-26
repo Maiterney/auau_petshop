@@ -5,8 +5,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Estrutura de pastas HTML
-- [ ] Compilador webpack build SCSS
-- [ ] Estrutura de pastas SCSS
+- [x] Compilador webpack build SCSS
+- [x] Estrutura de pastas SCSS
 - [ ] Construção layout HTML, mobile first
 - [ ] Adequação layout HTML, desktop
 - [ ] Implementação javascript modular
