@@ -1,0 +1,20 @@
+{
+  "name": "auau_petshop",
+  "version": "1.0.0",
+  "description": "O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maiterney/auau_petshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maiterney/auau_petshop/issues"
+  },
+  "homepage": "https://github.com/Maiterney/auau_petshop#readme"
+}
