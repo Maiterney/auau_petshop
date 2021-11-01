@@ -7,13 +7,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Estrutura de pastas HTML
 - [x] Compilador webpack build SCSS
 - [x] Estrutura de pastas SCSS
-- [ ] Construção layout HTML, mobile first
-- [ ] Adequação layout HTML, desktop
+- [x] Construção layout HTML, mobile first
+- [x] Adequação layout HTML, desktop
 - [x] Implementação javascript modular
-- [ ] Estrutura base de dados Json
-- [ ] Persistência de dados via SessionStorage
-- [ ] Regra de negócio { Carrinho de compras }
-- [ ] Regra de negócio { Modal Newslatter }
+- [x] Estrutura base de dados Json
+- [x] Persistência de dados via SessionStorage
+- [x] Regra de negócio { Carrinho de compras }
+- [x] Regra de negócio { Modal Newslatter }
 
 
 ### Webpack 5x[compilador scss], Node 12x

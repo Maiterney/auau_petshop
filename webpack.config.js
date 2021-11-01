@@ -3,11 +3,13 @@ const autoprefixer = require('autoprefixer');
 const cssnano = require('cssnano');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
-const production = process.env.NODE_ENV;
-
 module.exports = {
-    mode: production,
+    mode: 'development',
     devtool: 'source-map',
+    watch: true,
+    watchOptions: {
+        poll: 1000, // Check for changes every second
+    },
     
     output: {
         filename: 'style.bundle.js',
@@ -24,7 +26,7 @@ module.exports = {
     },
 
     entry: {
-        'styles': './scss/main.module.scss',
+        'styles': './scss/main.scss',
     },
 
     module: {
